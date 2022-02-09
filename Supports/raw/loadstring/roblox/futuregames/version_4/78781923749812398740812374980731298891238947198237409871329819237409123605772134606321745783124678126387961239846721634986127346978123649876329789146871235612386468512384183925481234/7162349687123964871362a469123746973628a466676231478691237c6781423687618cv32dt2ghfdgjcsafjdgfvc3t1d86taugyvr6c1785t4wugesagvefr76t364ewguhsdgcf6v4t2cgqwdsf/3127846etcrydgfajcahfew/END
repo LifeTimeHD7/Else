@@ -1,0 +1,12 @@
+--[[
+
+    Made by: LifeTimeHD7
+
+]]--
+
+
+local player = game.Players.LocalPlayer
+
+if player then
+   wanr("CA HAS BEEN LOADED!")
+end
